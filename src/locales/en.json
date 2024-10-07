@@ -1,0 +1,34 @@
+{
+  "home": {
+    "title": "API Documentation",
+    "description": "Welcome to our API documentation. Use the sidebar to navigate through different sections."
+  },
+  "gettingStarted": {
+    "title": "Getting Started",
+    "description": "Learn how to get started with our API."
+  },
+  "introduction": {
+    "title": "Introduction",
+    "description": "An introduction to our API and its capabilities."
+  },
+  "authentication": {
+    "title": "Authentication",
+    "description": "Learn how to authenticate your requests to our API."
+  },
+  "endpoints": {
+    "title": "Endpoints",
+    "description": "Explore the various endpoints available in our API."
+  },
+  "users": {
+    "title": "Users Endpoint",
+    "description": "Documentation for the users endpoint."
+  },
+  "products": {
+    "title": "Products Endpoint",
+    "description": "Documentation for the products endpoint."
+  },
+  "errorHandling": {
+    "title": "Error Handling",
+    "description": "Learn how to handle errors and interpret error messages from our API."
+  }
+}
